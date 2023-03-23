@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pvcurveanalysis"]
+	path = pvcurveanalysis
+	url = https://github.com/cran/pvcurveanalysis
+	shallow = true
+	registered = true
+[submodule "pvldcurve"]
+	path = pvldcurve
+	url = https://github.com/cran/pvldcurve
+	shallow = true
+	registered = true
